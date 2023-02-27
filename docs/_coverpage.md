@@ -4,9 +4,9 @@
 
 
 - Documentation de l'application mobile ios/android signalement tique
-- Documentation du système de gestion de la tiquothèque www.tiquothèque.Fr
+- Documentation du système de gestion de la tiquothèque www.tiquothèque.fr
 - Documentation de la base de données
 
 
 [Accéder à la tiquothèque](https://tiquotheque.fr)
-[Lire la documentation](#tiquotheque-documentation)
+[Lire la documentation](#CiTIQUE-Documentation)
