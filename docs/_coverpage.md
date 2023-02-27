@@ -1,6 +1,6 @@
 <h1 align="center">CiTIQUE :beetle:</h1>
 <h2 align="center">Documentation technique interne</h2>
-<h3 align="center"><small>version du ?? ?? 2023</small></h3>
+<h3 align="center"><small> *Version du ?? ?? 2023* </small></h3>
 
 
 - Documentation de l'application mobile ios/android signalement tique
