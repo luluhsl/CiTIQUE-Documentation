@@ -1,0 +1,24 @@
+<!-- docs/sidebar.md -->
+
+- **Informations générales**
+  - [Définitions](/infos_definitions)
+- **Signalement tique**
+  - [Généralités](/sig_generalites)
+  - [Signalement par l'application](/sig_appli)
+  - [Signalement par le web](/sig_web)
+  - [Signalement papier](/sig_papier)
+  - [Cas particuliers](/sig_cas_particuliers)
+- **Tiquothèque**
+  - [C'est quoi?](/tiq_cest_quoi)
+  - [Se connecter](/tiq_se_connecter)
+- **Base de données**
+  - [C'est quoi?](/bdd_cest_quoi)
+  - [Se connecter](/tiq_se_connecter)
+  - [Diagramme UML](/bdd_diag_UML)
+  - [Nomenclature variables](/bdd_variables)
+- **Nettoyage des données**
+  - [C'est quoi?](/clean_cest_quoi)
+  - [Script R](/clean_scriptR)
+- **Visualisation des données**
+  - [C'est quoi?](/viz_cest_quoi)
+  - [Script R](/viz_scriptR)
