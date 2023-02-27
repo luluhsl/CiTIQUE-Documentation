@@ -1,5 +1,3 @@
-<!-- docs/sidebar.md -->
-
 - **Informations générales**
   - [Définitions](/infos_definitions)
 - **Signalement tique**
@@ -16,9 +14,12 @@
   - [Se connecter](/bdd_se_connecter)
   - [Diagramme UML](/bdd_diag_UML)
   - [Nomenclature variables](/bdd_variables)
+
+<!--
 - **Nettoyage des données**
   - [C'est quoi?](/clean_cest_quoi)
   - [Script R](/clean_scriptR)
 - **Visualisation des données**
   - [C'est quoi?](/viz_cest_quoi)
   - [Script R](/viz_scriptR)
+-->
