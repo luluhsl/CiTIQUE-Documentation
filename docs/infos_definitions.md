@@ -3,10 +3,10 @@
 ## Définition d'un signalement
 * Le signalement, pour signalement de piqûre de tique, est un type de contenu contenant les informations liées à une piqûre de tique
 * Les signalements peuvent être ajoutés à la tiquothèque de plusieurs façons :
-		→ Via l'application android(https://www.citique.fr/android)
-		→ Via l'application ios(https://www.citique.fr/ios)
-		→ Via le formulaire web(https://www.citique.fr/web)
-		→ Via le formulaire papier(https://www.citique.fr/papier)
+1) Via l'application android(https://www.citique.fr/android)
+2) Via l'application ios(https://www.citique.fr/ios)
+3) Via le formulaire web(https://www.citique.fr/web)
+4) Via le formulaire papier(https://www.citique.fr/papier)
 * Un signalement peut correspondre à plusieurs échantillons
 * un signalement peut correspondre à un seul envoi
 
