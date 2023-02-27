@@ -12,7 +12,7 @@
 - **Base de données**
   - [C'est quoi?](/bdd_cest_quoi)
   - [Se connecter](/bdd_se_connecter)
-  - [Diagramme UML](/bdd_diag_UML)
+  - [Diagramme UML](/bdd_diag_uml)
   - [Nomenclature variables](/bdd_variables)
 
 <!--
