@@ -13,7 +13,7 @@
   - [Se connecter](/tiq_se_connecter)
 - **Base de données**
   - [C'est quoi?](/bdd_cest_quoi)
-  - [Se connecter](/tiq_se_connecter)
+  - [Se connecter](/bdd_se_connecter)
   - [Diagramme UML](/bdd_diag_UML)
   - [Nomenclature variables](/bdd_variables)
 - **Nettoyage des données**
