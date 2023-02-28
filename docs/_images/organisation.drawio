@@ -1,6 +1,6 @@
-<mxfile modified="2023-02-28T08:48:24.211Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="gvB4_sgS_ei5P5LaM-dg" version="20.8.23" type="github">
+<mxfile modified="2023-02-28T08:59:23.228Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="YxmfkYu81esgSL4RCBCL" version="20.8.23" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
-    <mxGraphModel dx="944" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="634" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -150,9 +150,6 @@
         <mxCell id="bf_3-eVbFjoDpEG_Rrt8-11" value="" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxwYXRoIGZpbGw9IiM5MENBRjkiIGQ9Ik0zOSwxNnY3aC02di03aC0ydjdoLTZ2LTdoLTJ2N2gtN3YyaDd2NmgtN3YyaDd2NmgtN3YyaDI1VjE2SDM5eiBNMzksMjV2NmgtNnYtNkgzOXogTTI1LDI1aDZ2NmgtNlYyNXogTTI1LDMzaDZ2NmgtNlYzM3ogTTMzLDM5di02aDZ2NkgzM3oiLz4mI3hhOyAgICA8cG9seWdvbiBmaWxsPSIjMDBCQ0Q0IiBwb2ludHM9IjQwLDggOCw4IDgsNDAgMTYsNDAgMTYsMTYgNDAsMTYiLz4mI3hhOyAgICA8cGF0aCBmaWxsPSIjMDA5N0E3IiBkPSJNNyw3djM0aDEwVjE3aDI0VjdIN3ogTTksMjN2LTZoNnY2SDl6IE0xNSwyNXY2SDl2LTZIMTV6IE0xNyw5aDZ2NmgtNlY5eiBNMjUsOWg2djZoLTZWOXogTTE1LDl2Nkg5VjlIMTV6IE05LDM5di02aDZ2Nkg5eiBNMzksMTVoLTZWOWg2VjE1eiIvPiYjeGE7PC9zdmc+" vertex="1" parent="bf_3-eVbFjoDpEG_Rrt8-42">
           <mxGeometry x="11" y="24" width="48" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="bf_3-eVbFjoDpEG_Rrt8-12" value="Fichier CSV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="bf_3-eVbFjoDpEG_Rrt8-42">
-          <mxGeometry y="40" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="bf_3-eVbFjoDpEG_Rrt8-43" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="900" y="640" width="70" height="72" as="geometry" />
         </mxCell>
@@ -236,6 +233,9 @@
         </mxCell>
         <mxCell id="bf_3-eVbFjoDpEG_Rrt8-50" value="Admin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="bf_3-eVbFjoDpEG_Rrt8-67">
           <mxGeometry y="36" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bf_3-eVbFjoDpEG_Rrt8-12" value="Fichier CSV" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="79" y="360" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
