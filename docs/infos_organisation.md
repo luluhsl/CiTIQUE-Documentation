@@ -1,3 +1,3 @@
-# Schéma de l'organisation des données au sein du programme CiTIQUE
+# Organisation et transfert de données
 
-![Organisation des transferts de données](_images/organisation.drawio.png)
+![Organisation des transferts de données](_images/organisation.drawio.png "Diagramme de flux utilisateurs")
