@@ -14,7 +14,11 @@
   - [C'est quoi?](/bdd_cest_quoi)
   - [Se connecter](/bdd_se_connecter)
   - [Diagramme UML](/bdd_diag_uml)
-  - [Nomenclature variables](/bdd_variables)
+  - [Table llx_signalement](/bdd_signalement)
+  - [Table llx_formulairefval](/bdd_formulairefval)
+  - [Table llx_user](/bdd_user)
+  - [Table llx_profil](/bdd_profil)
+  - [Dictionnaires](/bdd_dictionnaires)
 
 <!--
 - **Nettoyage des données**
