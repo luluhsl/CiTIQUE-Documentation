@@ -1,1 +1,1 @@
-![uml](_images/uml.png)
+![uml](_images/uml.drawio.png)
