@@ -1,5 +1,6 @@
 - **Informations générales**
   - [Définitions](/infos_definitions)
+  - [Organisation](/infos_organisation)
 - **Signalement tique**
   - [Généralités](/sig_generalites)
   - [Signalement par l'application](/sig_appli)
