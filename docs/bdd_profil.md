@@ -1,4 +1,4 @@
-# Table llx_profile
+# Table llx_profil
 
 La table llx_profile contient toutes les informations concernant les profils de personnes piquées. 
 
