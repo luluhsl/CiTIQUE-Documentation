@@ -1,6 +1,10 @@
 # Signalement par l'application :iphone:
 
 
-*Mettre ici un diagramme fonctionnel de l'appli, afin de visualiser les champs proposés selon les cas et notamment les champs obligatoires ou non, les valeurs par défaut, etc....*
+Le diagramme fonctionnel de l'application fournit ci-dessous permet de visualiser les champs proposés actuellement (03/2023) selon les cas (type de formulaire) et notamment les champs obligatoires ou non, les valeurs par défaut, etc.... afin de savoir quels sont les variables actuellement utilisées dans la base de données.
 
 :warning: A mettre à jour à chaque changement dans l'application!
+
+
+
+![Appli](_images/appli.png)
