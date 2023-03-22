@@ -6,5 +6,8 @@ Le diagramme fonctionnel de l'application fournit ci-dessous permet de visualise
 :warning: A mettre à jour à chaque changement dans l'application!
 
 
+<div align=center>
+<u> Diagramme des fonctionnalités en cours de l'application </u>
+</div>
 
 ![Appli](_images/appli.png)
