@@ -1,3 +1,4 @@
+# Cas particuliers
 Certains signalements peuvent comporter des problématiques faisant que le signalement n'est pas pertinant pour l'analyse de données :
 - **Tique libre** : il peut être précisé par l'utilisateur que la tique n'a pas piqué ;
 - **Pas une tique** : il peut s'avérer que la piqure signalée ne soit pas dûe à une tique (araignée par exemple) ;
