@@ -7,7 +7,7 @@ Pour un champ de formulaire sous forme de liste déroulante, cela permet de list
 Ainsi, il est possible grâce au dictionnaire de garder un historique des possibilités du champ, et de connaitre les possiblités en cours d'utilisation.
 L'utilisation d'un dictionnaire pour une liste déroulante permet d'automatiser facilement le nettoyage et l'analyse de données. 
 
-⚠️Les dictionnaires sont censés être utilisé pour faire la traduction des variables catégorielles entre la table *llx_formulaireval* (codé en chiffres, normalement) et la table *llx_formulairefval* (valeur textuelle, normalement). Pour certaines variables, les modalités sont écrites textuellement dans les deux, et parfois codé enchiffres dans les deux.  
+⚠️Les dictionnaires sont censés être utilisé pour faire la traduction des variables catégorielles entre la table <i>llx_formulaireval</i> (codé en chiffres, normalement) et la table <i>llx_formulairefval</i> (valeur textuelle, normalement). Pour certaines variables, les modalités sont écrites textuellement dans les deux, et parfois codé enchiffres dans les deux.  
 </p>
 
 ## llx_c_formulaire
