@@ -2,16 +2,23 @@
 
 <p style="text-align:justify;">
 Cette table est censé être la même que la table <i>llx_formulairefval</i>, mais avec les variables factorielles recodées en chiffres et non en valaurs textuelles.
+</p>
 
+<p style="text-align:justify;">
 :warning: Je ne connais pas le lien entre les deux tables, je ne sais pas laquelle a été créé à partir de l'autre. La description ci-dessous n'est donc qu'un constat de ce que j'observe, et des suppositions de ce qui a pu être fait à propos de cette table.
-
-
+</p>
+ 
+<p style="text-align:justify;">
 La table <i>llx_formulaireval</i> contient beaucoup moins de lignes (environ 4000) que la table <i>llx_formualirefval</i>. On peut donc déjà supposer des lignes ont été supprimées à la main dans cette table à un moment, sans doute dans le but de faire u nettoyage en direct dans la base de données.
-
+</p>
+ 
+<p style="text-align:justify;"> 
 Certaines variables catégorielles sont effectivement recodées en chiffres comparé à ce qui est donné dans la la table <i>llx_formulairefval</i>. Cependant, ce n'est pas le cas pour toutes les variables catégorielles....
+</p>
 
+<p style="text-align:justify;">
 De plus, le codage entre les deux tables n'est pas toujours cohérent. On retrouve parfois des nombres de modalités différentes pour une même variable dans les deux tables (sans doute parfois des modalités qui ne sont plus utilisés maintenant, parfois des bugs, ....).
- </p>
+</p>
   
 Liste des variables différant d'une table à l'autre :
 - **piqure_en_france** : NA dans formulairefval <-> 0 ou 1 dans formualireval OU 1 dans formualirefval correspondant à 0 dans formulaireval ET 0 dans formulairefval correspondant à 1 dans formulaireval. 
