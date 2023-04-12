@@ -1,17 +1,18 @@
 # Table llx_formulaireval
 
 <p style="text-align:justify;">
-Cette table est censé être la même que la table llx_formulairefval, mais avec les variables factorielles recodées en chiffres et non en valaurs textuelles.
+Cette table est censé être la même que la table <i>llx_formulairefval</i>, mais avec les variables factorielles recodées en chiffres et non en valaurs textuelles.
 
 :warning: Je ne connais pas le lien entre les deux tables, je ne sais pas laquelle a été créé à partir de l'autre. La description ci-dessous n'est donc qu'un constat de ce que j'observe, et des suppositions de ce qui a pu être fait à propos de cette table.
 
 
-La table llx_formulaireval contient beaucoup moins de lignes (environ 4000) que la table llx_formualirefval. On peut donc déjà supposer des lignes ont été supprimées à la main dans cette table à un moment, sans doute dans le but de faire u nettoyage en direct dans la base de données.
+La table <i>llx_formulaireval</i> contient beaucoup moins de lignes (environ 4000) que la table <i>llx_formualirefval</i>. On peut donc déjà supposer des lignes ont été supprimées à la main dans cette table à un moment, sans doute dans le but de faire u nettoyage en direct dans la base de données.
 
-Certaines variables catégorielles sont effectivement recodées en chiffres comparé à ce qui est donné dans la la table llx_formulairefval. Cependant, ce n'est pas le cas pour toutes les variables catégorielles....
+Certaines variables catégorielles sont effectivement recodées en chiffres comparé à ce qui est donné dans la la table <i>llx_formulairefval</i>. Cependant, ce n'est pas le cas pour toutes les variables catégorielles....
 
 De plus, le codage entre les deux tables n'est pas toujours cohérent. On retrouve parfois des nombres de modalités différentes pour une même variable dans les deux tables (sans doute parfois des modalités qui ne sont plus utilisés maintenant, parfois des bugs, ....).
-
+ </p>
+  
 Liste des variables différant d'une table à l'autre :
 - **piqure_en_france** : NA dans formulairefval <-> 0 ou 1 dans formualireval OU 1 dans formualirefval correspondant à 0 dans formulaireval ET 0 dans formulairefval correspondant à 1 dans formulaireval. 
 - **email_signalement** :  NA dans formualirefval <-> adresse mail dans formulaireval (ex: fk_sig=100831)
@@ -24,4 +25,4 @@ Liste des variables différant d'une table à l'autre :
 - **num_bea** : NA dans formulairefval <-> numéro BEA dans formulaireval (ex: fk_sig=56251)
 - **origine** : NA dans formulairefval <-> Web1.0.4 dans formulaireval (ex: fk_sig=63446)
 
-  </p>
+
