@@ -1,5 +1,6 @@
 # Table llx_formulaireval
 
+<p style="text-align:justify;">
 Cette table est censé être la même que la table llx_formulairefval, mais avec les variables factorielles recodées en chiffres et non en valaurs textuelles.
 
 :warning: Je ne connais pas le lien entre les deux tables, je ne sais pas laquelle a été créé à partir de l'autre. La description ci-dessous n'est donc qu'un constat de ce que j'observe, et des suppositions de ce qui a pu être fait à propos de cette table.
@@ -22,3 +23,5 @@ Liste des variables différant d'une table à l'autre :
 - **nom_pique** : NA dans formulairefval <-> nom dans formulaireval (ex: fk_sig=98696)
 - **num_bea** : NA dans formulairefval <-> numéro BEA dans formulaireval (ex: fk_sig=56251)
 - **origine** : NA dans formulairefval <-> Web1.0.4 dans formulaireval (ex: fk_sig=63446)
+
+  </p>
