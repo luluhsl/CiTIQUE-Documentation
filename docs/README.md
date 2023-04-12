@@ -1,4 +1,4 @@
-<h1 align="center"><img src="citique_logo.png" width="128"/></h1>
+<h1 align="center"><img src="docs/_images/citique_logo.png" width="128"/></h1>
 
 
 # Documentation technique interne au programme CiTIQUE
