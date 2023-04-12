@@ -11,7 +11,7 @@ La base de données est composées de différentes tables.
 </p>
   
 <p style="text-align:justify;">
-Les tables étant créées à partir d'un CRM Dolibarr (la toquothèque) pré-concu, de nombreuses tables et informations ne sont pas necessaires pour notre analyse. On va donc uniquement citer les tables que l'on utilise réellement, et au sein de ces tables, nous ne mentionneront que les variables utiles par soucis de clarté (ex: la table llx_user contient 78 variables alors que nous n'avons besoin que de trois d'entres elles).
+Les tables étant créées à partir d'un CRM Dolibarr (la tiquothèque) pré-concu, de nombreuses tables et informations ne sont pas necessaires pour notre analyse. On va donc uniquement citer les tables que l'on utilise réellement, et au sein de ces tables, nous ne mentionneront que les variables utiles par soucis de clarté (ex: la table llx_user contient 78 variables alors que nous n'avons besoin que de trois d'entres elles).
 </p>
  
 <p style="text-align:justify;"> 
