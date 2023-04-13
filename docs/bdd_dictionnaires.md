@@ -18,41 +18,41 @@ L'utilisation d'un dictionnaire pour une liste déroulante permet d'automatiser 
 
 Dictionnaire des modalités concernant le type de formulaire.
 
-```rowid``` de *llx_formulaire* <--> variable ```fk_form``` de *llx_signalement*.
+```rowid``` de *llx_formulaire* <-> variable ```fk_form``` de *llx_signalement*.
 
 ## llx_c_issue
 
 Dictionnaire des modalités concernant le type de problématique associée à un signalement.
 
-```rowid``` de *llx_c_issue* <--> variable ```fk_issue``` de *llx_signalement*.
+```rowid``` de *llx_c_issue* <-> variable ```fk_issue``` de *llx_signalement*.
 
 ## llx_c_occasion
 
 Dictionnaire des modalités concernant le type d'évènement associé à un signalement.
 
-```rowid``` de *llx_c_occasion* <--> variable ```evenement_signalement``` de *llx_formulaireval*.
+```rowid``` de *llx_c_occasion* <-> variable ```evenement_signalement``` de *llx_formulaireval*.
 
 ## llx_c_proprietaire
 
 Dictionnaire des modalités concernant le proprietaire de la donnée associée à un signalement.
 
-```rowid``` de *llx_c_proprietaire* <--> variable ```proprietaire_data``` de *llx_formulaireval* (attention, parfois codé parfois non).
+```rowid``` de *llx_c_proprietaire* <-> variable ```proprietaire_data``` de *llx_formulaireval* (attention, parfois codé parfois non).
 
 ## llx_c_partenariat
 
 Dictionnaire des modalités concernant le type de partenariat associé à un signalement.
 
-```rowid``` de *llx_c_partenariat* <--> variable ```partenariat``` de *llx_formulaireval*.
+```rowid``` de *llx_c_partenariat* <-> variable ```partenariat``` de *llx_formulaireval*.
 
 ## llx_c_sex_animal
 
 Dictionnaire des modalités concernant le sexe de l'animal associé à un signalement.
 
-```rowid``` de *llx_c_sex_animal* <--> variable ```sexe_animal``` de *llx_formulaireval* (attention, plus de modalités dans formulaireval que dans le dictionnaire).
+```rowid``` de *llx_c_sex_animal* <-> variable ```sexe_animal``` de *llx_formulaireval* (attention, plus de modalités dans formulaireval que dans le dictionnaire).
 
 ## llx_c_sex_humain
 
 Dictionnaire des modalités concernant le sexe de l'humain associé à un signalement.
 
-```rowid``` de *llx_c_sex_humain* <--> variable ```qui_a_ete_pique``` de *llx_formulaireval* (attention, plus de modalités dans formulaireval que dans le dictionnaire).
+```rowid``` de *llx_c_sex_humain* <-> variable ```qui_a_ete_pique``` de *llx_formulaireval* (attention, plus de modalités dans formulaireval que dans le dictionnaire).
 
