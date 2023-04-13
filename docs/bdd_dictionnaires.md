@@ -14,7 +14,7 @@ L'utilisation d'un dictionnaire pour une liste déroulante permet d'automatiser 
 ⚠️Les dictionnaires sont censés être utilisé pour faire la traduction des variables catégorielles entre la table <i>llx_formulaireval</i> (codé en chiffres, normalement) et la table <i>llx_formulairefval</i> (valeur textuelle, normalement). Pour certaines variables, les modalités sont écrites textuellement dans les deux, et parfois codé enchiffres dans les deux.  
 </p>
 
-## llx_formulaire (pas de _c_ pour celui-ci)
+## llx_formulaire (pas de _c pour celui-ci)
 
 Dictionnaire des modalités concernant le type de formulaire.
 
