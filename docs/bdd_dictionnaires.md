@@ -18,7 +18,7 @@ L'utilisation d'un dictionnaire pour une liste déroulante permet d'automatiser 
 
 Dictionnaire des modalités concernant le type de formulaire.
 
-```rowid``` de *llx_formulaire* <--> variable ```fk_form``` de *llx_signalement**.
+```rowid``` de *llx_formulaire* <--> variable ```fk_form``` de *llx_signalement*.
 
 ## llx_c_issue
 
