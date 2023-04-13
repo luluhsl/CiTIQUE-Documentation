@@ -50,3 +50,9 @@ Dictionnaire des modalités concernant le sexe de l'animal associé à un signal
 
 ```rowid``` de *llx_c_sex_animal* <--> variable ```sexe_animal``` de *llx_formulaireval* (attention, plus de modalités dans formulaireval que dans le dictionnaire).
 
+## llx_c_sex_humain
+
+Dictionnaire des modalités concernant le sexe de l'humain associé à un signalement.
+
+```rowid``` de *llx_c_sex_humain* <--> variable ```qui_a_ete_pique``` de *llx_formulaireval* (attention, plus de modalités dans formulaireval que dans le dictionnaire).
+
