@@ -19,7 +19,8 @@ Certaines variables catégorielles sont effectivement recodées en chiffres comp
 <p style="text-align:justify;">
 De plus, le codage entre les deux tables n'est pas toujours cohérent. On retrouve parfois des nombres de modalités différentes pour une même variable dans les deux tables (sans doute parfois des modalités qui ne sont plus utilisés maintenant, parfois des bugs, ....).
 </p>
-  
+ 
+ 
 Liste des variables différant d'une table à l'autre :
 - **piqure_en_france** : NA dans formulairefval <-> 0 ou 1 dans formualireval OU 1 dans formualirefval correspondant à 0 dans formulaireval ET 0 dans formulairefval correspondant à 1 dans formulaireval. 
 - **email_signalement** :  NA dans formualirefval <-> adresse mail dans formulaireval (ex: fk_sig=100831)
