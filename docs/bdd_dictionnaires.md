@@ -16,6 +16,8 @@ L'utilisation d'un dictionnaire pour une liste déroulante permet d'automatiser 
 
 ## llx_formulaire (pas de _c pour celui-ci)
 
+*Remarque: llx_formulaire n'est pas à proprement parlé un dictionnaire au sens de dolibarr, c'est une table llié au module de signalement.*
+
 Dictionnaire des modalités concernant le type de formulaire.
 
 ```rowid``` de *llx_formulaire* <-> variable ```fk_form``` de *llx_signalement*.
